@@ -1,6 +1,7 @@
 #Last Updated: Jan 2022
 #By: @itsanewd at github.com
 #Special Thanks to Kahfi for creating this playlist
+#Also thanks to 210.210.155.35, cubmu.superzap.xyz, iptv.mwafa.net, wpc.d1627.nucdn.net, playlist.urfan.web.id, iptvstream.xyz, etc for their help
 
 #EXTINF:0 group-title="Internasional",AL QURAN AL KAREEM
 http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8
@@ -20,8 +21,14 @@ https://cubmu.superzap.xyz:8279/rcti/playlist.m3u8
 #EXTINF:0 group-title="Nasional",SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 
+#EXTINF:0 group-title="Nasional",MNCTV
+https://cubmu.superzap.xyz:8279/mnctv/playlist.m3u8
+
+#EXTINF:0 group-title="Nasional",GTV
+https://cubmu.superzap.xyz:8279/gtv/playlist.m3u8
+
 #EXTINF:0 group-title="Nasional",NET. TV
-https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
+https://cubmu.superzap.xyz:8279/net/playlist.m3u8
 
 #EXTINF:0 group-title="Nasional",KOMPAS TV
 http://210.210.155.35/qwr9ew/s/s104/01.m3u8
