@@ -4,7 +4,7 @@
 
 #Last Updated: Jan 2022
 #By: @itsanewd at github.com
-#Special Thanks to Kahfi for creating this playlist
+#Special thanks to Kahfi for creating this playlist
 #Also thanks to 210.210.155.35, cubmu.superzap.xyz, iptv.mwafa.net, wpc.d1627.nucdn.net, playlist.urfan.web.id, iptvstream.xyz, etc for their help
 
 #EXTINF:0 group-title="Internasional",AL QURAN AL KAREEM
@@ -424,3 +424,6 @@ http://iptvstream.xyz:8080/Mcnsi/7210db0d/7450
 
 #EXTINF:0 group-title="beIN Sports",BEINSPORTS HABER
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/7448
+
+#EXTINF:0 group-title="Copyright",ABOUT ME
+https://github.com/itsanewd/iptv/blob/main/About%20Me.mp4?raw=true
