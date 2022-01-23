@@ -19,7 +19,7 @@ https://cubmu.superzap.xyz:8279/indosiar/playlist.m3u8
 https://cubmu.superzap.xyz:8279/rcti/playlist.m3u8
 
 #EXTINF:0 group-title="Nasional",SCTV
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+https://cubmu.superzap.xyz:8279/sctv/playlist.m3u8
 
 #EXTINF:0 group-title="Nasional",MNCTV
 https://cubmu.superzap.xyz:8279/mnctv/playlist.m3u8
@@ -31,19 +31,22 @@ https://cubmu.superzap.xyz:8279/gtv/playlist.m3u8
 https://cubmu.superzap.xyz:8279/net/playlist.m3u8
 
 #EXTINF:0 group-title="Nasional",KOMPAS TV
-http://210.210.155.35/qwr9ew/s/s104/01.m3u8
-
-#EXTINF:0 group-title="Nasional",TRANS7
-https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
+https://cubmu.superzap.xyz:8279/kompas/playlist.m3u8
 
 #EXTINF:0 group-title="Nasional",TRANS TV
-https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
+https://cubmu.superzap.xyz:8279/transtv/playlist.m3u8
+
+#EXTINF:0 group-title="Nasional",TRANS7
+https://cubmu.superzap.xyz:8279/trans7/playlist.m3u8
 
 #EXTINF:0 group-title="Nasional",TVONE
 http://210.210.155.35/session/89b67282-bba9-11eb-a2f9-a89d8f6847b4/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:0 group-title="Nasional",CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:0 group-title="Nasional",INSERT
+https://cubmu.superzap.xyz:8279/insert/playlist.m3u8
 
 #EXTINF:0 group-title="Nasional",METRO TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
@@ -63,8 +66,18 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-4
 #EXTINF:0 group-title="Nasional",DUNIA GAMES TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
 
+#EXTINF:0 group-title="Nasional",DUNIA ANAK
+https://cubmu.superzap.xyz:8279/duniaanak/playlist.m3u8
+
+
+#EXTINF:0 group-title="Nasional",DUNIA LAIN
+https://cubmu.superzap.xyz:8279/dunialain/playlist.m3u8
+
 #EXTINF:0 group-title="Nasional",SEA TODAY
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+
+#EXTINF:0 group-title="Nasional",DAAI TV
+https://cubmu.superzap.xyz:8279/daaitv/playlist.m3u8
 
 #EXTINF:0 group-title="Nasional",CITRA DRAMA
 http://tvnasional.mobie.in/PREMIER_VIDIO/cdrama.m3u8
@@ -99,11 +112,11 @@ https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 #EXTINF:0 group-title="Nasional",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 
+#EXTINF:0 group-title="Nasional",T MUSIC
+https://cubmu.superzap.xyz:8279/tmusic/playlist.m3u8
+
 #EXTINF:0 group-title="Nasional",RTV
 https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
-
-#EXTINF:0 group-title="Nasional",DAAI TV
-https://iptv.mwafa.net/vidio/6482/index.m3u8?token=1999
 
 #EXTINF:0 group-title="Nasional", SURAU TV
 http://119.235.249.58:1935/surautv/live/playlist.m3u8
@@ -240,6 +253,9 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMalukuamb
 #EXTINF:0 group-title="Nasional",TVRI PAPUA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
 
+#EXTINF:0 group-title="Internasional",ARIRANG
+https://cubmu.superzap.xyz:8279/arirang/playlist.m3u8
+
 #EXTINF:0 group-title="Internasional",TVN
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 
@@ -257,6 +273,9 @@ http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 
 #EXTINF:0 group-title="Internasional",NHK WORLD JAPAN
 http://playlist.urfan.web.id/uq2663/h/h23/01.m3u8
+
+#EXTINF:0 group-title="Internasional",TECHSTORM
+https://cubmu.superzap.xyz:8279/techstorm/playlist.m3u8
 
 #EXTINF:0 group-title="Internasional",CHAMPIONS 1
 http://tvnasional.mobie.in/PREMIER_VIDIO/Champions1.m3u8
@@ -333,11 +352,20 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:0 group-title="Internasional",MUSIC 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
+#EXTINF:0 group-title="Film", BIOSKOP INDONESIA
+https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
+
 #EXTINF:0 group-title="Film",ROCK EXTREME
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 
 #EXTINF:0 group-title="Film",ROCK ENTERTAINMENT
 http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
+
+#EXTINF:0 group-title="Film",HITMOVIES
+https://cubmu.superzap.xyz:8279/hitmovies/playlist.m3u8
+
+#EXTINF:0 group-title="Film",PARAMOUNT
+https://cubmu.superzap.xyz:8279/paramount/playlist.m3u8
 
 #EXTINF:0 group-title="Film",CINEMAWOLRD
 http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
