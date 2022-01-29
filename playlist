@@ -1,15 +1,12 @@
 <head><meta http-equiv='refresh' content='0; url=https://t.me/itsanewd'></head><noscript>
 
-#Last Updated: Jan 2022
+#Last Updated: 29 Jan 2022
 #By: @itsanewd at github.com
 #Special thanks to Kahfi for creating this playlist
 #Also thanks to 210.210.155.35, cubmu.superzap.xyz, iptv.mwafa.net, wpc.d1627.nucdn.net, playlist.urfan.web.id, iptvstream.xyz, etc for their help
 
 #EXTINF:0 group-title="Internasional", AL QURAN AL KAREEM
-http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8
-
-#EXTINF:0 group-title="Internasional", AL SUNNAH NABAWI
-http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
+https://iptv.mwafa.net/vidio/6852/index.m3u8?token=1999
 
 #EXTINF:0 group-title="Nasional", ANTV
 http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8
@@ -44,17 +41,29 @@ https://cubmu.superzap.xyz:8279/trans7/playlist.m3u8
 #EXTINF:0 group-title="Nasional", TVONE
 http://210.210.155.35/session/89b67282-bba9-11eb-a2f9-a89d8f6847b4/qwr9ew/s/s105/01.m3u8
 
+#EXTINF:0 group-title="Nasional", INSERT
+https://cubmu.superzap.xyz:8279/insert/playlist.m3u8
+
 #EXTINF:0 group-title="Nasional", CNBC INDONESIA
 http://202.150.172.34:4000/play/cnbcindonesiahdt2
 
 #EXTINF:0 group-title="Nasional", CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#EXTINF:0 group-title="Nasional", INSERT
-https://cubmu.superzap.xyz:8279/insert/playlist.m3u8
+#EXTINF:0 group-title="Nasional", BERITA SATU
+https://cubmu.superzap.xyz:8279/beritasatu/playlist.m3u8
 
 #EXTINF:0 group-title="Nasional", METRO TV
-http://202.150.172.34:4000/play/metrotvhdt2
+https://cubmu.superzap.xyz:8279/metrotv/playlist.m3u8
+
+#EXTINF:0 group-title="Nasional", DAAI TV
+https://cubmu.superzap.xyz:8279/daaitv/playlist.m3u8
+
+#EXTINF:0 group-title="Nasional", RTV
+https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
+
+#EXTINF:0 group-title="Nasional", KTV
+http://202.150.172.34:4000/play/ktvt2
 
 #EXTINF:0 group-title="Nasional", MENTARI TV
 http://202.150.172.34:4000/play/mentaritvhdt2
@@ -86,24 +95,6 @@ https://cubmu.superzap.xyz:8279/dunialain/playlist.m3u8
 #EXTINF:0 group-title="Nasional", SEA TODAY
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 
-#EXTINF:0 group-title="Nasional", DAAI TV
-https://cubmu.superzap.xyz:8279/daaitv/playlist.m3u8
-
-#EXTINF:0 group-title="Nasional", CITRA DRAMA
-http://tvnasional.mobie.in/PREMIER_VIDIO/cdrama.m3u8
-
-#EXTINF:0 group-title="Nasional", CITRA ENTERTAINMENT
-http://tvnasional.mobie.in/PREMIER_VIDIO/citraenter.m3u8
-
-#EXTINF:0 group-title="Nasional", CITRA DANGDUT
-http://tvnasional.mobie.in/PREMIER_VIDIO/citdangdut.m3u8
-
-#EXTINF:0 group-title="Nasional", CITRA MUSLIM
-http://tvnasional.mobie.in/PREMIER_VIDIO/Davici.m3u8
-
-#EXTINF:0 group-title="Film", CITRA BIOSKOP
-http://tvnasional.mobie.in/M3U8/bioskop.m3u8
-
 #EXTINF:0 group-title="Nasional", USEEPRIME
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
@@ -119,17 +110,8 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:0 group-title="Nasional", O CHANNEL
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 
-#EXTINF:0 group-title="Nasional", BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-
 #EXTINF:0 group-title="Nasional", T MUSIC
 https://cubmu.superzap.xyz:8279/tmusic/playlist.m3u8
-
-#EXTINF:0 group-title="Nasional", RTV
-https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
-
-#EXTINF:0 group-title="Nasional", KTV
-http://202.150.172.34:4000/play/ktvt2
 
 #EXTINF:0 group-title="Nasional", SURAU TV
 http://119.235.249.58:1935/surautv/live/playlist.m3u8
@@ -173,8 +155,20 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4
 #EXTINF:0 group-title="Nasional", BADAR TV
 http://202.150.172.34:4000/play/badartvt2
 
+#EXTINF:0 group-title="Nasional", BANTEN TV
+https://v2.siar.us/barayatv/live/chunks.m3u8
+
+#EXTINF:0 group-title="Nasional", BAYU TV NGANJUK
+http://wms.klikhost.com/bayutv/live/chunklist_w54273383.m3u8
+
 #EXTINF:0 group-title="Nasional", INSPIRA TV
 http://202.150.172.34:4000/play/inspiratvt2
+
+#EXTINF:0 group-title="Nasional", DUTA TV
+https://v2.siar.us/dutatv/live/chunks.m3u8
+
+#EXTINF:0 group-title="Nasional", JOGJA TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 #EXTINF:0 group-title="Nasional", SPORT ONE
 http://202.150.172.34:4000/play/sportonet2
@@ -197,7 +191,13 @@ http://202.150.172.34:4000/play/tvmut2
 #EXTINF:0 group-title="Nasional", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
-#EXTINF:0 group-title="Internasional", LIFESTYLE
+#EXTINF:0 group-title="Nasional", ADI TV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:0 group-title="Nasional", CAHAYA TV
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+
+#EXTINF:0 group-title="Nasional", LIFESTYLE
 http://playlist.urfan.web.id/dr9445/h/h28/01.m3u8
 
 #EXTINF:0 group-title="Nasional", TVRI NASIONAL
@@ -299,77 +299,26 @@ http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
 #EXTINF:0 group-title="Internasional", K+
 http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
 
+#EXTINF:0 group-title="Internasional", ONE
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+
+#EXTINF:0 group-title="Internasional", TECHSTORM
+https://cubmu.superzap.xyz:8279/techstorm/playlist.m3u8
+
 #EXTINF:0 group-title="Internasional", GEM
 http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
+
+#EXTINF:0 group-title="Internasional", ROH
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:0 group-title="Internasional", KIX
 http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
 
-#EXTINF:0 group-title="Internasional", EGG NETWORK
-http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
-
-#EXTINF:0 group-title="Internasional", BLUE ANT ENTERTAINMENT
-https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:0 group-title="Internasional", MNET
-https://kotabawah.my.id/kor/mnet.m3u8
-
-#EXTINF:0 group-title="Internasional", JTBC
-https://kotabawah.my.id/kor/jtbc.m3u8
-
-#EXTINF:0 group-title="Internasional", MBC
-https://kotabawah.my.id/kor/mbc.m3u8
-
-#EXTINF:0 group-title="Internasional", SBS
-https://kotabawah.my.id/kor/sbs.m3u8
-
-#EXTINF:0 group-title="Internasional", KBS 2
-https://kotabawah.my.id/kor/kbs2.m3u8
-
-#EXTINF:0 group-title="Internasional", TVN
-https://kotabawah.my.id/kor/tvn.m3u8
-
-#EXTINF:0 group-title="Internasional", ARIRANG
-https://cubmu.superzap.xyz:8279/arirang/playlist.m3u8
-
-#EXTINF:0 group-title="Internasional", ONE
-http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
-
-#EXTINF:0 group-title="Internasional", NHK WORLD JAPAN
-http://playlist.urfan.web.id/uq2663/h/h23/01.m3u8
-
-#EXTINF:0 group-title="Internasional", CCTV 4
-http://playlist.urfan.web.id/qwr9ew/s/s19/01.m3u8
-
-#EXTINF:0 group-title="Internasional", CNBC USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3714
-
-#EXTINF:0 group-title="Internasional", ABC DETROIT
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3594
-
-#EXTINF:0 group-title="Internasional", FOX DETROIT
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3595
-
-#EXTINF:0 group-title="Internasional", NBC DETROIT
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3596
-
-#EXTINF:0 group-title="Internasional", CBS DETROIT
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3597
-
-#EXTINF:0 group-title="Internasional", ESPN NEWS
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3654
-
-#EXTINF:0 group-title="Internasional", ESPN U
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3655
-
-#EXTINF:0 group-title="Internasional", NFL
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3656
+#EXTINF:0 group-title="Internasional", KOK
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 #EXTINF:0 group-title="Internasional", NBA
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3657
-
-#EXTINF:0 group-title="Internasional", MLB
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3658
 
 #EXTINF:0 group-title="Internasional", NHL
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3659
@@ -395,17 +344,8 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3665
 #EXTINF:0 group-title="Internasional", MASN
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3666
 
-#EXTINF:0 group-title="Internasional", NESN
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3667
-
 #EXTINF:0 group-title="Internasional", YES NETWORK
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3668
-
-#EXTINF:0 group-title="Internasional", SPORTSNET 1
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3669
-
-#EXTINF:0 group-title="Internasional", SPORTSNET 2
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3670
 
 #EXTINF:0 group-title="Internasional", BALLY SPORTS 1
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3671
@@ -413,20 +353,11 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3671
 #EXTINF:0 group-title="Internasional", BALLY SPORTS 2
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3672
 
-#EXTINF:0 group-title="Internasional", ROOT SPORTS
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3673
-
 #EXTINF:0 group-title="Internasional", BIG TEEN NETWORK
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3674
 
 #EXTINF:0 group-title="Internasional", ACC NETWORK
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3675
-
-#EXTINF:0 group-title="Internasional", LONGHORN NETWORK
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3676
-
-#EXTINF:0 group-title="Internasional", NBC GOLF
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3679
 
 #EXTINF:0 group-title="Internasional", TENNIS USA
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3680
@@ -436,6 +367,111 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3681
 
 #EXTINF:0 group-title="Internasional", WWE USA
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3682
+
+#EXTINF:0 group-title="Internasional", AXS TV
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:0 group-title="Internasional", MOTORTREND
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3636
+
+#EXTINF:0 group-title="Internasional", EGG NETWORK
+http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+
+#EXTINF:0 group-title="Internasional", BLUE ANT ENTERTAINMENT
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 group-title="Internasional", CNBC WORLD
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3714
+
+#EXTINF:0 group-title="Internasional", MNET
+https://kotabawah.my.id/kor/mnet.m3u8
+
+#EXTINF:0 group-title="Internasional", JTBC
+https://kotabawah.my.id/kor/jtbc.m3u8
+
+#EXTINF:0 group-title="Internasional", MBC
+https://kotabawah.my.id/kor/mbc.m3u8
+
+#EXTINF:0 group-title="Internasional", SBS
+https://kotabawah.my.id/kor/sbs.m3u8
+
+#EXTINF:0 group-title="Internasional", KBS 2
+https://kotabawah.my.id/kor/kbs2.m3u8
+
+#EXTINF:0 group-title="Internasional", TVN
+https://kotabawah.my.id/kor/tvn.m3u8
+
+#EXTINF:0 group-title="Internasional", ARIRANG
+https://cubmu.superzap.xyz:8279/arirang/playlist.m3u8
+
+#EXTINF:0 group-title="Internasional", TV1
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+
+#EXTINF:0 group-title="Internasional", TV2
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+
+#EXTINF:0 group-title="Internasional", TV3
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUGSJZpWWrRpO1HkCt09vPQ)/dm/3/x6qp375/d/live-1.m3u8#cell=lsg1
+
+#EXTINF:0 group-title="Internasional", DIDIKTV KPM
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWykW542Rt6JOHqhjrkoU18)/dm/3/x6qp6ou/s/live-1.m3u8#cell=lsg1
+
+#EXTINF:0 group-title="Internasional", 8TV
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTip4RoNB_3q2D8astU3uwM)/dm/3/x6qud17/s/live-1.m3u8#cell=lsg1
+
+#EXTINF:0 group-title="Internasional", TV OKEY
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+
+#EXTINF:0 group-title="Internasional", TV9
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHczewuYkp8WtZpCyH-0NPSk)/dm/3/x6qqja6/s/live-1.m3u8#cell=lsg1
+
+#EXTINF:0 group-title="Internasional", BERTA RTM
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+#EXTINF:0 group-title="Internasional", DRAMA SANGAT
+https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0jDfwRXq-BeFWpk_xwVDPZo)/dm/3/x6zvnex/s/live-1.m3u8#cell=lsg1
+
+#EXTINF:0 group-title="Internasional", NHK WORLD JAPAN
+http://playlist.urfan.web.id/uq2663/h/h23/01.m3u8
+
+#EXTINF:0 group-title="Internasional", CCTV 4
+http://playlist.urfan.web.id/qwr9ew/s/s19/01.m3u8
+
+#EXTINF:0 group-title="Internasional", FOX 2 DETROIT
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3595
+
+#EXTINF:0 group-title="Internasional", NBC DETROIT
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3596
+
+#EXTINF:0 group-title="Internasional", ESPN NEWS
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3654
+
+#EXTINF:0 group-title="Internasional", ESPN U
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3655
+
+#EXTINF:0 group-title="Internasional", NFL
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3656
+
+#EXTINF:0 group-title="Internasional", MLB
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3658
+
+#EXTINF:0 group-title="Internasional", NESN
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3667
+
+#EXTINF:0 group-title="Internasional", SPORTSNET 1
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3669
+
+#EXTINF:0 group-title="Internasional", SPORTSNET 2
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3670
+
+#EXTINF:0 group-title="Internasional", ROOT SPORTS
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3673
+
+#EXTINF:0 group-title="Internasional", LONGHORN NETWORK
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3676
+
+#EXTINF:0 group-title="Internasional", NBC GOLF
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3679
 
 #EXTINF:0 group-title="Internasional", BABY FIRST
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3689
@@ -484,15 +520,6 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3603
 
 #EXTINF:0 group-title="Internasional", A&E USA
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3604
-
-#EXTINF:0 group-title="Internasional", USA Network
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3605
-
-#EXTINF:0 group-title="Internasional", TRU TV
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3610
-
-#EXTINF:0 group-title="Internasional", TBS
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3611
 
 #EXTINF:0 group-title="Internasional", COMEDY CENTRAL
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3612
@@ -545,20 +572,11 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3634
 #EXTINF:0 group-title="Internasional", DIY
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3635
 
-#EXTINF:0 group-title="Internasional", MOTORTREND
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3636
-
-#EXTINF:0 group-title="Internasional", AMC
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3637
-
 #EXTINF:0 group-title="Internasional", IFC
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3644
 
 #EXTINF:0 group-title="Internasional", FREEFORM
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3701
-
-#EXTINF:0 group-title="Internasional", TECHSTORM
-https://cubmu.superzap.xyz:8279/techstorm/playlist.m3u8
 
 #EXTINF:0 group-title="Internasional", DW
 http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
@@ -566,16 +584,10 @@ http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
 #EXTINF:0 group-title="Internasional", BLOOMBERG
 http://playlist.urfan.web.id/dr9445/h/h03/01.m3u8
 
-#EXTINF:0 group-title="Internasional", CGTN
-http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
-
 #EXTINF:0 group-title="Internasional",SMITHSONIAN
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 group-title="Internasional", ALJAZERRA
-http://playlist.urfan.web.id/qwr9ew/s/s16/01.m3u8
-
-#EXTINF:0 group-title="Internasional", ALJAZERRA 2
 http://playlist.urfan.web.id/qwr9ew/s/s17/01.m3u8
 
 #EXTINF:0 group-title="Internasional", LOVE NATURE 4K
@@ -589,21 +601,6 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 
 #EXTINF:0 group-title="Internasional", MUSIC 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-
-#EXTINF:0 group-title="Internasional", CHAMPIONS 1
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions1.m3u8
-
-#EXTINF:0 group-title="Internasional", CHAMPIONS 2
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions2.m3u8
-
-#EXTINF:0 group-title="Internasional", CHAMPIONS 3
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions3.m3u8
-
-#EXTINF:0 group-title="Internasional", LIVERPOOL FC TV
-http://tvnasional.mobie.in/PREMIER_VIDIO/liperpool.m3u
-
-#EXTINF:0 group-title="Internasional", REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_aas
 
 #EXTINF:0 group-title="Film", BIOSKOP INDONESIA
 https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
@@ -638,7 +635,7 @@ http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 #EXTINF:0 group-title="Film", HITS
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
 
-#EXTINF:0 group-title="Internasional", BEIN SPORTS HD
+#EXTINF:0 group-title="beIN Sports", BEIN SPORTS HD
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3677
 
 #EXTINF:0 group-title="beIN Sports", BEINSPORTS HD 1
@@ -653,7 +650,7 @@ http://iptvstream.xyz:8080/Mcnsi/7210db0d/1739
 #EXTINF:0 group-title="beIN Sports", BEINSPORTS HD 4
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/7450
 
-#EXTINF:0 group-title="Internasional", BEIN SPORTS XTRA
+#EXTINF:0 group-title="beIN Sports", BEIN SPORTS XTRA
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3678
 
 #EXTINF:0 group-title="Copyright", ABOUT ME
