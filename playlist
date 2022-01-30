@@ -1,6 +1,6 @@
 <head><meta http-equiv='refresh' content='0; url=https://t.me/itsanewd'></head><noscript>
 
-#Last Updated: 29 Jan 2022
+#Last Updated: 30 Jan 2022
 #By: @itsanewd at github.com
 #Special thanks to Kahfi for creating this playlist
 #Also thanks to 210.210.155.35, cubmu.superzap.xyz, iptv.mwafa.net, wpc.d1627.nucdn.net, playlist.urfan.web.id, iptvstream.xyz, etc for their help
@@ -290,6 +290,51 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMalukuamb
 #EXTINF:0 group-title="Nasional", TVRI PAPUA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
 
+#EXTINF:0 group-title="Internasional", AXS TV 1
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:0 group-title="Internasional", AXS TV 2
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+
+#EXTINF:0 group-title="Internasional", TV1
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+
+#EXTINF:0 group-title="Internasional", TV2
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+
+#EXTINF:0 group-title="Internasional", DIDIKTV KPM
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWykW542Rt6JOHqhjrkoU18)/dm/3/x6qp6ou/s/live-1.m3u8#cell=lsg1
+
+#EXTINF:0 group-title="Internasional", TV OKEY
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+
+#EXTINF:0 group-title="Internasional", TV9
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHczewuYkp8WtZpCyH-0NPSk)/dm/3/x6qqja6/s/live-1.m3u8#cell=lsg1
+
+#EXTINF:0 group-title="Internasional", BERTA RTM
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+#EXTINF:0 group-title="Internasional", TECHSTORM
+https://cubmu.superzap.xyz:8279/techstorm/playlist.m3u8
+
+#EXTINF:0 group-title="Internasional", ARIRANG
+https://cubmu.superzap.xyz:8279/arirang/playlist.m3u8
+
+#EXTINF:0 group-title="Internasional",SMITHSONIAN
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 group-title="Internasional", LOVE NATURE 4K
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 group-title="Internasional", MTV BIGGEST POP
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
+
+#EXTINF:0 group-title="Internasional", AFRO BEATS
+https://stream.ecable.tv/afrobeats/index.m3u8
+
+#EXTINF:0 group-title="Internasional", MUSIC 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+
 #EXTINF:0 group-title="Internasional", ROCK EXTREME
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 
@@ -302,14 +347,8 @@ http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
 #EXTINF:0 group-title="Internasional", ONE
 http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 
-#EXTINF:0 group-title="Internasional", TECHSTORM
-https://cubmu.superzap.xyz:8279/techstorm/playlist.m3u8
-
 #EXTINF:0 group-title="Internasional", GEM
 http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
-
-#EXTINF:0 group-title="Internasional", ROH
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:0 group-title="Internasional", KIX
 http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
@@ -368,9 +407,6 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3681
 #EXTINF:0 group-title="Internasional", WWE USA
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3682
 
-#EXTINF:0 group-title="Internasional", AXS TV
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-
 #EXTINF:0 group-title="Internasional", MOTORTREND
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3636
 
@@ -401,32 +437,11 @@ https://kotabawah.my.id/kor/kbs2.m3u8
 #EXTINF:0 group-title="Internasional", TVN
 https://kotabawah.my.id/kor/tvn.m3u8
 
-#EXTINF:0 group-title="Internasional", ARIRANG
-https://cubmu.superzap.xyz:8279/arirang/playlist.m3u8
-
-#EXTINF:0 group-title="Internasional", TV1
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
-
-#EXTINF:0 group-title="Internasional", TV2
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
-
 #EXTINF:0 group-title="Internasional", TV3
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUGSJZpWWrRpO1HkCt09vPQ)/dm/3/x6qp375/d/live-1.m3u8#cell=lsg1
 
-#EXTINF:0 group-title="Internasional", DIDIKTV KPM
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWykW542Rt6JOHqhjrkoU18)/dm/3/x6qp6ou/s/live-1.m3u8#cell=lsg1
-
 #EXTINF:0 group-title="Internasional", 8TV
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTip4RoNB_3q2D8astU3uwM)/dm/3/x6qud17/s/live-1.m3u8#cell=lsg1
-
-#EXTINF:0 group-title="Internasional", TV OKEY
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-
-#EXTINF:0 group-title="Internasional", TV9
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHczewuYkp8WtZpCyH-0NPSk)/dm/3/x6qqja6/s/live-1.m3u8#cell=lsg1
-
-#EXTINF:0 group-title="Internasional", BERTA RTM
-https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
 #EXTINF:0 group-title="Internasional", DRAMA SANGAT
 https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0jDfwRXq-BeFWpk_xwVDPZo)/dm/3/x6zvnex/s/live-1.m3u8#cell=lsg1
@@ -584,23 +599,8 @@ http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
 #EXTINF:0 group-title="Internasional", BLOOMBERG
 http://playlist.urfan.web.id/dr9445/h/h03/01.m3u8
 
-#EXTINF:0 group-title="Internasional",SMITHSONIAN
-https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 group-title="Internasional", ALJAZERRA
 http://playlist.urfan.web.id/qwr9ew/s/s17/01.m3u8
-
-#EXTINF:0 group-title="Internasional", LOVE NATURE 4K
-http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 group-title="Internasional", MTV BIGGEST POP
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
-
-#EXTINF:0 group-title="Internasional", AFRO BEATS
-https://stream.ecable.tv/afrobeats/index.m3u8
-
-#EXTINF:0 group-title="Internasional", MUSIC 24
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
 #EXTINF:0 group-title="Film", BIOSKOP INDONESIA
 https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
