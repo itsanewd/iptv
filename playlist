@@ -1,9 +1,9 @@
 <head><meta http-equiv='refresh' content='0; url=https://t.me/itsanewd'></head><noscript>
 
-#Last Updated: 09 Feb 2022
+#Last Updated: 12 Feb 2022
 #By: @itsanewd at github.com
 #Special thanks to Kahfi for creating this playlist
-#Also thanks to playlist.urfan.web.id, cubmu.superzap.xyz, iptv.mwafa.net, wpc.d1627.nucdn.net, etc for their help
+#Also thanks to playlist.urfan.web.id, cubmu.superzap.xyz, iptv.mwafa.net, wpc.d1627.nucdn.net, wanicelife.com, etc for their help
 
 #EXTINF:0 group-title="Internasional", AL QURAN
 http://playlist.urfan.web.id/qwr9ew/s/s28/01.m3u8
@@ -44,6 +44,9 @@ https://cubmu.superzap.xyz:8279/trans7/playlist.m3u8
 #EXTINF:0 group-title="Nasional", TVONE
 http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 
+#EXTINF:0 group-title="Nasional", MUSLIM TV
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60343
+
 #EXTINF:0 group-title="Nasional", BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
@@ -80,6 +83,9 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #EXTINF:0 group-title="Nasional", DAAI TV
 https://cubmu.superzap.xyz:8279/daaitv/playlist.m3u8
 
+#EXTINF:0 group-title="Nasional", VISION PRIME
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60291
+
 #EXTINF:0 group-title="Nasional", USEEPRIME
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
@@ -100,6 +106,9 @@ http://playlist.urfan.web.id/uq2663/h/h191/index.m3u8
 
 #EXTINF:0 group-title="Nasional", TOONZ KIDS
 http://playlist.urfan.web.id/x6bnqe/s/s81/01.m3u8
+
+#EXTINF:0 group-title="Nasional", MNC ENTERTAINMENT
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60466
 
 #EXTINF:0 group-title="Nasional", KTV
 http://202.150.172.34:4000/play/ktvt2
@@ -326,17 +335,35 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:0 group-title="Internasional", AXS TV NOW
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 
+#EXTINF:0 group-title="Internasional", EURONEWS
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60342
+
+#EXTINF:0 group-title="Internasional", BBC WORLD NEWS
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60290
+
 #EXTINF:0 group-title="Internasional", EGG NETWORK
 http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
-
-#EXTINF:0 group-title="Internasional", LOVE NATURE 4K
-http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 
 #EXTINF:0 group-title="Internasional", KOK
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 #EXTINF:0 group-title="Internasional", KIX
 http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+
+#EXTINF:0 group-title="Internasional", LOVE NATURE 4K
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
+
+#EXTINF:0 group-title="Internasional", ANIMAL PLANET
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60475
+
+#EXTINF:0 group-title="Internasional", NATGEO WILD
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60345
+
+#EXTINF:0 group-title="Internasional", NATGEO
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60484
+
+#EXTINF:0 group-title="Internasional", TLC
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60346
 
 #EXTINF:0 group-title="Internasional", TV1
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
@@ -349,6 +376,24 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
 #EXTINF:0 group-title="Internasional", BERTA RTM
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+#EXTINF:0 group-title="Internasional", DISCOVERY CHANNEL
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60481
+
+#EXTINF:0 group-title="Internasional", CARTOON NETWORK
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60410
+
+#EXTINF:0 group-title="Internasional", NICK JUNIOR
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60462
+
+#EXTINF:0 group-title="Internasional", KIDS TV
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60454
+
+#EXTINF:0 group-title="Internasional", RT
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60283
+
+#EXTINF:0 group-title="Internasional", ANHUI TV
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60293
 
 #EXTINF:0 group-title="Internasional", TECHSTORM
 https://cubmu.superzap.xyz:8279/techstorm/playlist.m3u8
@@ -389,16 +434,37 @@ http://playlist.urfan.web.id/qwr9ew/s/s17/01.m3u8
 #EXTINF:0 group-title="Film", BIOSKOP INDONESIA
 https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
 
+#EXTINF:0 group-title="Film", HBO
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60473
+
+#EXTINF:0 group-title="Film", HBO Family
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60474
+
+#EXTINF:0 group-title="Film", HBO Hits
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60458
+
+#EXTINF:0 group-title="Film", HBO Signature
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60456
+
+#EXTINF:0 group-title="Film", WARNER TV
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60292
+
 #EXTINF:0 group-title="Film", HITMOVIES
 https://cubmu.superzap.xyz:8279/hitmovies/playlist.m3u8
 
 #EXTINF:0 group-title="Film", CINEMAWOLRD
 http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
 
+#EXTINF:0 group-title="Film", CINEMAMAX
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60459
+
+#EXTINF:0 group-title="Film", DISCOVERY ASIA
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60376
+
 #EXTINF:0 group-title="Film", CCM
 http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
 
-#EXTINF:0 group-title="Film", ZEE BIOSKOP
+#EXTINF:0 group-title="Film", ZEEBIOSKOP
 http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
 
 #EXTINF:0 group-title="Film", THRILL
