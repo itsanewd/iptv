@@ -1,9 +1,9 @@
 <head><meta http-equiv='refresh' content='0; url=https://t.me/itsanewd'></head><noscript>
 
-#Last Updated: 15 Feb 2022
+#Last Updated: 03 Mar 2022
 #By: @itsanewd at github.com
 #Special thanks to Kahfi for creating this playlist
-#Also thanks to playlist.urfan.web.id, cubmu.superzap.xyz, iptv.mwafa.net, wpc.d1627.nucdn.net, mue03.wanicelife.com, etc for their help
+#Also thanks to playlist.urfan.web.id, iptv.mwafa.net, wpc.d1627.nucdn.net, mue03.wanicelife.com, etc for their help
 
 #EXTINF:0 group-title="Internasional", AL QURAN
 http://playlist.urfan.web.id/qwr9ew/s/s28/01.m3u8
@@ -18,31 +18,34 @@ http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
 http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:0 group-title="Nasional", RCTI
-https://cubmu.superzap.xyz:8279/rcti/playlist.m3u8
+
 
 #EXTINF:0 group-title="Nasional", SCTV
-https://cubmu.superzap.xyz:8279/sctv/playlist.m3u8
+http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:0 group-title="Nasional", MNCTV
-https://cubmu.superzap.xyz:8279/mnctv/playlist.m3u8
+
 
 #EXTINF:0 group-title="Nasional", GTV
-https://cubmu.superzap.xyz:8279/gtv/playlist.m3u8
+
 
 #EXTINF:0 group-title="Nasional", NET. TV
-https://cubmu.superzap.xyz:8279/net/playlist.m3u8
+http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:0 group-title="Nasional", KOMPAS TV
-https://cubmu.superzap.xyz:8279/kompas/playlist.m3u8
+http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
 
 #EXTINF:0 group-title="Nasional", TRANS TV
-https://cubmu.superzap.xyz:8279/transtv/playlist.m3u8
+http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
 
 #EXTINF:0 group-title="Nasional", TRANS7
-https://cubmu.superzap.xyz:8279/trans7/playlist.m3u8
+http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
 
 #EXTINF:0 group-title="Nasional", TVONE
 http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:0 group-title="Nasional", METRO TV
+http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
 
 #EXTINF:0 group-title="Nasional", AL-IMAN TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
@@ -59,9 +62,6 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #EXTINF:0 group-title="Nasional", JAKARTA GLOBE NEWS CHANNEL
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 
-#EXTINF:0 group-title="Nasional", METRO TV
-https://cubmu.superzap.xyz:8279/metrotv/playlist.m3u8
-
 #EXTINF:0 group-title="Nasional", RTV
 http://playlist.urfan.web.id/dr9445/h/h10/02.m3u8
 
@@ -74,17 +74,11 @@ http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 #EXTINF:0 group-title="Nasional", O CHANNEL
 http://playlist.urfan.web.id/x6bnqe/s/s73/S4/mnf.m3u8
 
-#EXTINF:0 group-title="Nasional", INSERT
-https://cubmu.superzap.xyz:8279/insert/playlist.m3u8
-
 #EXTINF:0 group-title="Nasional", CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
 
 #EXTINF:0 group-title="Nasional", CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-
-#EXTINF:0 group-title="Nasional", DAAI TV
-https://cubmu.superzap.xyz:8279/daaitv/playlist.m3u8
 
 #EXTINF:0 group-title="Nasional", VISION PRIME
 http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60291
@@ -146,20 +140,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-4
 #EXTINF:0 group-title="Nasional", TV EDUKASI
 https://iptv.mwafa.net/vidio/6838/index.m3u8?token=1999
 
-#EXTINF:0 group-title="Nasional", DUNIA ANAK
-https://cubmu.superzap.xyz:8279/duniaanak/playlist.m3u8
-
-#EXTINF:0 group-title="Nasional", DUNIA LAIN
-https://cubmu.superzap.xyz:8279/dunialain/playlist.m3u8
-
 #EXTINF:0 group-title="Nasional", SEA TODAY
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 
 #EXTINF:0 group-title="Nasional", RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
-
-#EXTINF:0 group-title="Nasional", T MUSIC
-https://cubmu.superzap.xyz:8279/tmusic/playlist.m3u8
 
 #EXTINF:0 group-title="Nasional", SURAU TV
 http://119.235.249.58:1935/surautv/live/playlist.m3u8
@@ -428,12 +413,6 @@ http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60283
 #EXTINF:0 group-title="Internasional", ANHUI TV
 http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60293
 
-#EXTINF:0 group-title="Internasional", TECHSTORM
-https://cubmu.superzap.xyz:8279/techstorm/playlist.m3u8
-
-#EXTINF:0 group-title="Internasional", ARIRANG
-https://cubmu.superzap.xyz:8279/arirang/playlist.m3u8
-
 #EXTINF:0 group-title="Internasional",SMITHSONIAN
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
 
@@ -452,17 +431,11 @@ http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
 #EXTINF:0 group-title="Internasional", NHK WORLD
 http://playlist.urfan.web.id/uq2663/h/h23/01.m3u8
 
-#EXTINF:0 group-title="Internasional", PARAMOUNT
-https://cubmu.superzap.xyz:8279/paramount/playlist.m3u8
-
 #EXTINF:0 group-title="Internasional", CCTV 4
 http://playlist.urfan.web.id/qwr9ew/s/s19/01.m3u8
 
 #EXTINF:0 group-title="Internasional", DW
 http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
-
-#EXTINF:0 group-title="Film", BIOSKOP INDONESIA
-https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
 
 #EXTINF:0 group-title="Film", HBO
 http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60473
@@ -478,9 +451,6 @@ http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60456
 
 #EXTINF:0 group-title="Film", WARNER TV
 http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60292
-
-#EXTINF:0 group-title="Film", HITMOVIES
-https://cubmu.superzap.xyz:8279/hitmovies/playlist.m3u8
 
 #EXTINF:0 group-title="Film", CINEMAWOLRD
 http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
