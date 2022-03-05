@@ -1,6 +1,6 @@
 <head><meta http-equiv='refresh' content='0; url=https://t.me/itsanewd'></head><noscript>
 
-#Last Updated: 03 Mar 2022
+#Last Updated: 5 Mar 2022
 #By: @itsanewd at github.com
 #Special thanks to Kahfi for creating this playlist
 #Also thanks to playlist.urfan.web.id, iptv.mwafa.net, wpc.d1627.nucdn.net, mue03.wanicelife.com, etc for their help
@@ -18,16 +18,16 @@ http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
 http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:0 group-title="Nasional", RCTI
-
+https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/index.m3u8
 
 #EXTINF:0 group-title="Nasional", SCTV
 http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:0 group-title="Nasional", MNCTV
-
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:0 group-title="Nasional", GTV
-
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:0 group-title="Nasional", NET. TV
 http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
