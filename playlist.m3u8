@@ -3,22 +3,22 @@
 #Last Modified: 17 May 2022
 #By: @itsanewd at github.com
 #Special thanks to Kahfi for creating this playlist
-#Also thanks to playlist.urfan.web.id, iptv.mwafa.net, wpc.d1627.nucdn.net, mue03.wanicelife.com, etc for their help
+#Also thanks to wpc.d1627.nucdn.net for bring tvri groups
 
 #EXTINF:0 group-title="Internasional", AL QURAN AL KAREEM TV
-https://live-production.secureswiftcontent.com/exp=1652783088~acl=/hls-p/ingest_6852_*/*~hmac=552afbab202c0bcc5f5d7162b87bcaa1bc1b10ea2858e22ea023c72f3c7e051e/hls-p/ingest_6852_720p/index.m3u8
+
 
 #EXTINF:0 group-title="Nasional", ANTV
-https://live-production.secureswiftcontent.com/exp=1652778846~acl=/hls-p/ingest_782_*/*~hmac=8c2b53830d5e8c1b5a02188838f1d0be3c1996e5a1532a09c96539d78f363dae/hls-p/ingest_782_720p/index.m3u8
+
 
 #EXTINF:0 group-title="Nasional", INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1652778963~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=55f63a9327a844567cac43c21a365d436fd8ef6dd9d4bce6c7ef52df9f5e5481/vp9/205_stream.mpd
+
 
 #EXTINF:0 group-title="Nasional", RCTI
 https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7.m3u8
 
 #EXTINF:0 group-title="Nasional", SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1652782284~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=e1726064d56c596adf758727a330e4139aceb264810ee806e0056fc3a88e40fc/vp9/204_stream.mpd
+
 
 #EXTINF:0 group-title="Nasional", MNCTV
 https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021_360p/index.m3u8
@@ -26,23 +26,26 @@ https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021_36
 #EXTINF:0 group-title="Nasional", GTV
 https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6.m3u8
 
-#EXTINF:0 group-title="Nasional", NET. TV (Offline)
-http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
+#EXTINF:0 group-title="Nasional", NET. TV
+
 
 #EXTINF:0 group-title="Nasional", KOMPAS TV
-https://etslive-2-vidio-com.akamaized.net/exp=1652783989~acl=/vp9/874_stream.mpd!/vp9/874/*!/vp9/*/874_stream.mpd!/vp9/*/874/*~hmac=06b412e2024189a4c213ce43f7dc5ef295d2e74dac937af99a950acfb44c6849/vp9/874_stream.mpd
+
 
 #EXTINF:0 group-title="Nasional", OCHANNEL
-https://etslive-2-vidio-com.akamaized.net/exp=1652784391~acl=/hls-p/ingest_206_*/*~hmac=6ba0f08c0dea5e69096e40b58b1ab4945dad91bcd5a01ed1c1b2782a6230632b/hls-p/ingest_206_720p/index.m3u8
+
+
+#EXTINF:0 group-title="Nasional", DETIK TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w809711845_b744100_sleng.m3u8
 
 #EXTINF:0 group-title="Nasional", TRANS TV
-https://etslive-2-vidio-com.akamaized.net/exp=1652782109~acl=/vp9/733_stream.mpd!/vp9/733/*!/vp9/*/733_stream.mpd!/vp9/*/733/*~hmac=1e40ecadd08cbe53341160ff1735b23948b2d73207d2057a13b6b3f837aab614/vp9/733_stream.mpd
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w809711845_b744100_sleng.m3u8
 
-#EXTINF:0 group-title="Nasional", TRANS7
-https://etslive-2-vidio-com.akamaized.net/exp=1652782248~acl=/vp9/734_stream.mpd!/vp9/734/*!/vp9/*/734_stream.mpd!/vp9/*/734/*~hmac=5ce3cd6894e20395352bf2c433af203be9f50be57c1051334f12c47fa405640b/vp9/734_stream.mpd
+#EXTINF:0 group-title="Nasional", TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2114922346_b744100_sleng.m3u8
 
 #EXTINF:0 group-title="Nasional", TVONE
-https://live-production.secureswiftcontent.com/exp=1652783577~acl=/hls-p/ingest_783_*/*~hmac=46174f5ca5f76b147be3414eeab907adef389507a3192f0024fdbd598e0b96b6/hls-p/ingest_783_720p/index.m3u8
+
 
 #EXTINF:0 group-title="Nasional", BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -63,28 +66,28 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
 #EXTINF:0 group-title="Nasional", METRO TV
-https://etslive-2-vidio-com.akamaized.net/exp=1652783920~acl=/vp9/777_stream.mpd!/vp9/777/*!/vp9/*/777_stream.mpd!/vp9/*/777/*~hmac=017a1e17111f57a1dfe064eb28d4801d70661241e0f955a9f866399a9fa67d2f/vp9/777_stream.mpd
+
 
 #EXTINF:0 group-title="Nasional", AL-IMAN TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
 
 #EXTINF:0 group-title="Nasional", MENTARI TV
-https://etslive-2-vidio-com.akamaized.net/exp=1652782952~acl=/hls-p/ingest_8237_*/*~hmac=ce656e9f2e00f3a4ab4509e7e48cb0f2e00ed95430c3861c264c818f8f47dd6e/hls-p/ingest_8237_720p/index.m3u8
+
 
 #EXTINF:0 group-title="Nasional", RTV
-https://etslive-2-vidio-com.akamaized.net/exp=1652783473~acl=/hls-p/ingest_1561_*/*~hmac=f03299636eabe048e5f05da577cc734ec3e4250ef509afba209ca4bff4311d67/hls-p/ingest_1561_720p/index.m3u8
+
 
 #EXTINF:0 group-title="Nasional", RANS CHANNEL
-https://etslive-2-vidio-com.akamaized.net/exp=1652782571~acl=/hls-p/ingest_8241_*/*~hmac=976136625dcfd7800468f29db0884a24f3cbfbbaec4ec743dbc92e321e6ff2fd/hls-p/ingest_8241_720p/index.m3u8
+
 
 #EXTINF:0 group-title="Nasional", TV EDUKASI
-https://live-production.secureswiftcontent.com/exp=1652783029~acl=/hls-p/ingest_6838_*/*~hmac=bdbc855173e612ab193e8efbf59134e661ffb8e202cd1c90492d5c9bd59f878b/hls-p/ingest_6838_720p/index.m3u8
+
 
 #EXTINF:0 group-title="Nasional", AJWA TV
-https://live-production.secureswiftcontent.com/exp=1652782426~acl=/hls-p/ingest_7464_*/*~hmac=4a676dc6ad3f44cfc994fbc6345a32a49d9f5181c18be90287313286ed5215a7/hls-p/ingest_7464_720p/index.m3u8
+
 
 #EXTINF:0 group-title="Nasional", DAAI TV
-https://live-production.secureswiftcontent.com/exp=1652783827~acl=/hls-p/ingest_6482_*/*~hmac=cef00f4f4049d6cefca669ee0cdd383853a29fcd30fdaa5603d6e0e5789ceebc/hls-p/ingest_6482_720p/index.m3u8
+
 
 #EXTINF:0 group-title="Nasional", DUNIA GAMES TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
@@ -126,13 +129,13 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4
 https://streaming.sigraduta.co.id/izzahtv.m3u8
 
 #EXTINF:0 group-title="Nasional", U-CHANNEL TV
-https://live-production.secureswiftcontent.com/exp=1652784264~acl=/hls-p/ingest_6898_*/*~hmac=bd8c0b2a7d5299deb4fd22763c92ca420235a25a0c32323ee42345c3053e0819/hls-p/ingest_6898_720p/index.m3u8
+
 
 #EXTINF:0 group-title="Nasional", REFORMED 21 TV
-https://live-production.secureswiftcontent.com/exp=1652783155~acl=/hls-p/ingest_6853_*/*~hmac=270f6fbcdfa0d956b24dc5109cbe57a9f9449ac762b81e6b634db1c9fc842df6/hls-p/ingest_6853_720p/index.m3u8
+
 
 #EXTINF:0 group-title="Nasional", TV TEMPO
-https://live-production.secureswiftcontent.com/exp=1652782892~acl=/hls-p/ingest_7946_*/*~hmac=9677ecc1469c9a2cc51bbfee1b092da82004a1d89961b857310645ca9b13665b/hls-p/ingest_7946_480p/index.m3u8
+
 
 #EXTINF:0 group-title="Nasional", WESAL TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
