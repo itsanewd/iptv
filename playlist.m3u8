@@ -5,35 +5,35 @@
 #Special thanks to Kahfi for creating this playlist
 #Also thanks to wpc.d1627.nucdn.net for bring tvri groups
 
-EXTINF:0 group-title="Internasional", AL QURAN AL KAREEM TV
+#EXTINF:0 group-title="Internasional", AL QURAN AL KAREEM TV
+https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
+#EXTINF:0 group-title="Nasional", ANTV
+https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
-EXTINF:0 group-title="Nasional", ANTV
+#EXTINF:0 group-title="Nasional", INDOSIAR
+https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
+#EXTINF:0 group-title="Nasional", RCTI
+https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
-EXTINF:0 group-title="Nasional", INDOSIAR
+#EXTINF:0 group-title="Nasional", SCTV
+https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
+#EXTINF:0 group-title="Nasional", MNCTV
+https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
-EXTINF:0 group-title="Nasional", RCTI
+#EXTINF:0 group-title="Nasional", GTV
+https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
-
-EXTINF:0 group-title="Nasional", SCTV
-
-
-EXTINF:0 group-title="Nasional", MNCTV
-
-
-EXTINF:0 group-title="Nasional", GTV
-
-
-EXTINF:0 group-title="Nasional", NET. TV
-
+#EXTINF:0 group-title="Nasional", NET. TV
+https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
 #EXTINF:0 group-title="Nasional", KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 
-EXTINF:0 group-title="Nasional", OCHANNEL
-
+#EXTINF:0 group-title="Nasional", OCHANNEL
+https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
 #EXTINF:0 group-title="Nasional", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w809711845_b744100_sleng.m3u8
@@ -41,8 +41,8 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w809711845_b744100_s
 #EXTINF:0 group-title="Nasional", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2114922346_b744100_sleng.m3u8
 
-EXTINF:0 group-title="Nasional", TVONE
-
+#EXTINF:0 group-title="Nasional", TVONE
+https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
 #EXTINF:0 group-title="Nasional", BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -68,23 +68,23 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 #EXTINF:0 group-title="Nasional", AL-IMAN TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
 
-EXTINF:0 group-title="Nasional", MENTARI TV
+#EXTINF:0 group-title="Nasional", MENTARI TV
+https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
+#EXTINF:0 group-title="Nasional", RTV
+https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
-EXTINF:0 group-title="Nasional", RTV
+#EXTINF:0 group-title="Nasional", RANS CHANNEL
+https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
+#EXTINF:0 group-title="Nasional", TV EDUKASI
+https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
-EXTINF:0 group-title="Nasional", RANS CHANNEL
+#EXTINF:0 group-title="Nasional", AJWA TV
+https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
-
-EXTINF:0 group-title="Nasional", TV EDUKASI
-
-
-EXTINF:0 group-title="Nasional", AJWA TV
-
-
-EXTINF:0 group-title="Nasional", DAAI TV
-
+#EXTINF:0 group-title="Nasional", DAAI TV
+https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
 #EXTINF:0 group-title="Nasional", DUNIA GAMES TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
