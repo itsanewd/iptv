@@ -1,42 +1,39 @@
 <head><meta http-equiv='refresh' content='0; url=https://t.me/itsanewd'></head><noscript>
 
-#Last Modified: 17 May 2022
+#Last Modified: 18 May 2022
 #By: @itsanewd at github.com
 #Special thanks to Kahfi for creating this playlist
 #Also thanks to wpc.d1627.nucdn.net for bring tvri groups
 
-#EXTINF:0 group-title="Internasional", AL QURAN AL KAREEM TV
+EXTINF:0 group-title="Internasional", AL QURAN AL KAREEM TV
 
 
-#EXTINF:0 group-title="Nasional", ANTV
+EXTINF:0 group-title="Nasional", ANTV
 
 
-#EXTINF:0 group-title="Nasional", INDOSIAR
+EXTINF:0 group-title="Nasional", INDOSIAR
 
 
-#EXTINF:0 group-title="Nasional", RCTI
-https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7.m3u8
-
-#EXTINF:0 group-title="Nasional", SCTV
+EXTINF:0 group-title="Nasional", RCTI
 
 
-#EXTINF:0 group-title="Nasional", MNCTV
-https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021_360p/index.m3u8
-
-#EXTINF:0 group-title="Nasional", GTV
-https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6.m3u8
-
-#EXTINF:0 group-title="Nasional", NET. TV
+EXTINF:0 group-title="Nasional", SCTV
 
 
-#EXTINF:0 group-title="Nasional", KOMPAS TV
+EXTINF:0 group-title="Nasional", MNCTV
 
 
-#EXTINF:0 group-title="Nasional", OCHANNEL
+EXTINF:0 group-title="Nasional", GTV
 
 
-#EXTINF:0 group-title="Nasional", DETIK TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w809711845_b744100_sleng.m3u8
+EXTINF:0 group-title="Nasional", NET. TV
+
+
+EXTINF:0 group-title="Nasional", KOMPAS TV
+
+
+EXTINF:0 group-title="Nasional", OCHANNEL
+
 
 #EXTINF:0 group-title="Nasional", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w809711845_b744100_sleng.m3u8
@@ -44,7 +41,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w809711845_b744100_s
 #EXTINF:0 group-title="Nasional", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2114922346_b744100_sleng.m3u8
 
-#EXTINF:0 group-title="Nasional", TVONE
+EXTINF:0 group-title="Nasional", TVONE
 
 
 #EXTINF:0 group-title="Nasional", BERITASATU
@@ -65,28 +62,28 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b
 #EXTINF:0 group-title="Nasional", CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#EXTINF:0 group-title="Nasional", METRO TV
+EXTINF:0 group-title="Nasional", METRO TV
 
 
 #EXTINF:0 group-title="Nasional", AL-IMAN TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
 
-#EXTINF:0 group-title="Nasional", MENTARI TV
+EXTINF:0 group-title="Nasional", MENTARI TV
 
 
-#EXTINF:0 group-title="Nasional", RTV
+EXTINF:0 group-title="Nasional", RTV
 
 
-#EXTINF:0 group-title="Nasional", RANS CHANNEL
+EXTINF:0 group-title="Nasional", RANS CHANNEL
 
 
-#EXTINF:0 group-title="Nasional", TV EDUKASI
+EXTINF:0 group-title="Nasional", TV EDUKASI
 
 
-#EXTINF:0 group-title="Nasional", AJWA TV
+EXTINF:0 group-title="Nasional", AJWA TV
 
 
-#EXTINF:0 group-title="Nasional", DAAI TV
+EXTINF:0 group-title="Nasional", DAAI TV
 
 
 #EXTINF:0 group-title="Nasional", DUNIA GAMES TV
@@ -128,13 +125,13 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4
 #EXTINF:0 group-title="Nasional", IZZAH TV
 https://streaming.sigraduta.co.id/izzahtv.m3u8
 
-#EXTINF:0 group-title="Nasional", U-CHANNEL TV
+EXTINF:0 group-title="Nasional", U-CHANNEL TV
 
 
-#EXTINF:0 group-title="Nasional", REFORMED 21 TV
+EXTINF:0 group-title="Nasional", REFORMED 21 TV
 
 
-#EXTINF:0 group-title="Nasional", TV TEMPO
+EXTINF:0 group-title="Nasional", TV TEMPO
 
 
 #EXTINF:0 group-title="Nasional", WESAL TV
