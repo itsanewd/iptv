@@ -35,6 +35,9 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:0 group-title="Nasional", TVONE
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
 
+#EXTINF:0 group-title="Nasional", AJWA TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832446503011668def857b1c03bafabba51
+
 #EXTINF:0 group-title="Nasional", RAJAWALI TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
 
@@ -257,6 +260,9 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:0 group-title="Internasional", BERTA RTM
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
+#EXTINF:0 group-title="Internasional", KOK
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
 #EXTINF:0 group-title="Internasional", AXS TV
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
@@ -266,17 +272,17 @@ https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 #EXTINF:0 group-title="Internasional", NHK WORLD JAPAN
 https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 
+#EXTINF:0 group-title="Internasional", LOVE NATURE 4K
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
+
 #EXTINF:0 group-title="Internasional", TECHSTORM
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
 
 #EXTINF:0 group-title="Internasional", ALJAZEERA
-https://etslive-2-vidio-com.akamaized.net/exp=1652782745~acl=/hls-p/ingest_6410_*/*~hmac=b38add711b9616a1f9776fb95eb55608369f15c87c605e389c55b73cdb0ba400/hls-p/ingest_6410_720p/index.m3u8
+https://live-hls-web-aje.getaj.net/AJE-b/01.m3u8
 
 #EXTINF:0 group-title="Internasional", DW ENGLISH
-https://etslive-2-vidio-com.akamaized.net/exp=1652782825~acl=/hls-p/ingest_5075_*/*~hmac=cc1e395b89059838970f0bff503999b192f1017799e50cec84c05f2c056549a5/hls-p/ingest_5075_1080p/index.m3u8
-
-#EXTINF:0 group-title="Internasional", LOVE NATURE 4K
-http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=23685a2431acad7789c1e3d43ea1522c446503011668def857b1c03bafabba51
 
 #EXTINF:0 group-title="Internasional",SMITHSONIAN
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
@@ -289,9 +295,6 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:0 group-title="Internasional", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-#EXTINF:0 group-title="Internasional", KOK
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 #EXTINF:0 group-title="Internasional", SPIRIT TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
