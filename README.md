@@ -1,4 +1,4 @@
-+ Last Modified: 18 May 2022
++ Last Modified: 20 May 2022
 - Whats's New:
-- Added several channel from MAXStream (CHANNEL 4U, JAK TV, BALI TV, THE INDONESIA CHANNEL, MCC, MAX2U, KOMPAS TV, METRO TV, TECHSTORM)
+- Added several channel from Vidio; AL QURAN AL KARERM TV, ANTV, INDOSIAR, SCTV, NET., MENTARI TV, TVONE, RAJAWALI TV, RANS CHANNEL. (Thanks to coday)
 - Some Fixes
