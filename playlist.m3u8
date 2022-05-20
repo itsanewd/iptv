@@ -1,24 +1,25 @@
 <head><meta http-equiv='refresh' content='0; url=https://t.me/itsanewd'></head><noscript>
 
-#Last Modified: 18 May 2022
+#Last Modified: 20 May 2022
 #By: @itsanewd at github.com
 #Special thanks to Kahfi for creating this playlist
-#Also thanks to wpc.d1627.nucdn.net for bring tvri groups
+#Also thanks to coday for bringing vidio groups and wpc.d1627.nucdn.net for tvri groups
 
-#EXTINF:0 group-title="Internasional", AL QURAN AL KAREEM TV
-https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
+;#EXTINF:0 group-title="Internasional", AL QURAN AL KAREEM TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a446503011668def857b1c03bafabba51
 
 #EXTINF:0 group-title="Nasional", ANTV
-https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
 
 #EXTINF:0 group-title="Nasional", INDOSIAR
-https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
 #EXTINF:0 group-title="Nasional", RCTI
 https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
 #EXTINF:0 group-title="Nasional", SCTV
-https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+
 
 #EXTINF:0 group-title="Nasional", MNCTV
 https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
@@ -27,22 +28,28 @@ https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
 #EXTINF:0 group-title="Nasional", NET. TV
-https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
+
+#EXTINF:0 group-title="Nasional", MENTARI TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
+
+#EXTINF:0 group-title="Nasional", TVONE
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
+
+#EXTINF:0 group-title="Nasional", RAJAWALI TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
+
+#EXTINF:0 group-title="Nasional", RANS CHANNEL
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=1e00746ce7635c403c2d4f9767893f00446503011668def857b1c03bafabba51
 
 #EXTINF:0 group-title="Nasional", KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
-
-#EXTINF:0 group-title="Nasional", OCHANNEL
-https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
 #EXTINF:0 group-title="Nasional", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w809711845_b744100_sleng.m3u8
 
 #EXTINF:0 group-title="Nasional", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2114922346_b744100_sleng.m3u8
-
-#EXTINF:0 group-title="Nasional", TVONE
-https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
 #EXTINF:0 group-title="Nasional", BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -67,24 +74,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 
 #EXTINF:0 group-title="Nasional", AL-IMAN TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
-
-#EXTINF:0 group-title="Nasional", MENTARI TV
-https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
-
-#EXTINF:0 group-title="Nasional", RTV
-https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
-
-#EXTINF:0 group-title="Nasional", RANS CHANNEL
-https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
-
-#EXTINF:0 group-title="Nasional", TV EDUKASI
-https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
-
-#EXTINF:0 group-title="Nasional", AJWA TV
-https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
-
-#EXTINF:0 group-title="Nasional", DAAI TV
-https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
 
 #EXTINF:0 group-title="Nasional", DUNIA GAMES TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
@@ -130,15 +119,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4
 
 #EXTINF:0 group-title="Nasional", IZZAH TV
 https://streaming.sigraduta.co.id/izzahtv.m3u8
-
-EXTINF:0 group-title="Nasional", U-CHANNEL TV
-
-
-EXTINF:0 group-title="Nasional", REFORMED 21 TV
-
-
-EXTINF:0 group-title="Nasional", TV TEMPO
-
 
 #EXTINF:0 group-title="Nasional", WESAL TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
