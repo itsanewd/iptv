@@ -1,5 +1,6 @@
-+ Last Modified: 20 May 2022
++ M3U URL: https://raw.githubusercontent.com/itsanewd/iptv/main/playlist.m3u8 (https://cutt.ly/iptvfii)
++ Last Modified: 27 May 2022
 - Whats's New:
-- Added several channel from Vidio; AL QURAN AL KAREEM TV, ANTV, INDOSIAR, SCTV, NET., MENTARI TV, TVONE, AJAWA TV, RAJAWALI TV, RANS CHANNEL, DW ENGLISH. (Thanks to coday)
-- Bring back AL JAZEERA channel
+- Added Biznet groups (Biznet Adventure, Biznet Kidz, Biznet Lifestyle)
+- Added DAAI TV, Huma Betang TV, Inspira TV, Madani TV, TRT WORLD
 - Some Fixes
