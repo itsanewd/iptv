@@ -15,16 +15,16 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
 #EXTINF:0 group-title="Nasional", RCTI
-https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
+https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 
 #EXTINF:0 group-title="Nasional", SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
 #EXTINF:0 group-title="Nasional", MNCTV
-https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
+https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 
 #EXTINF:0 group-title="Nasional", GTV
-https://github.com/itsanewd/iptv/blob/main/Error%20404.mp4?raw=true
+https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 
 #EXTINF:0 group-title="Nasional", NET. TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
@@ -43,9 +43,6 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 
 #EXTINF:0 group-title="Nasional", RANS CHANNEL
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=1e00746ce7635c403c2d4f9767893f00446503011668def857b1c03bafabba51
-
-#EXTINF:0 group-title="Nasional", KOMPAS TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 
 #EXTINF:0 group-title="Nasional", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w809711845_b744100_sleng.m3u8
@@ -71,14 +68,17 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b
 #EXTINF:0 group-title="Nasional", CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#EXTINF:0 group-title="Nasional", METRO TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
-
 #EXTINF:0 group-title="Nasional", DAAI TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/bf3a76722204472aa45938f2b67ef808/playlist.m3u8
 
 #EXTINF:0 group-title="Nasional", AL-IMAN TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+
+#EXTINF:0 group-title="Nasional", KOMPAS TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+
+#EXTINF:0 group-title="Nasional", METRO TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 
 #EXTINF:0 group-title="Nasional", DUNIA GAMES TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
