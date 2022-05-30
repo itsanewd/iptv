@@ -1,4 +1,4 @@
-+ M3U URL: https://raw.githubusercontent.com/itsanewd/iptv/main/playlist.m3u8 (https://cutt.ly/iptvfii)
++ M3U URL: https://raw.githubusercontent.com/itsanewd/iptv/main/Playlist.m3u8 (https://cutt.ly/iptvfii2)
 + Last Modified: 30 May 2022
 - Whats's New:
 - Added MNC groups (RCTI, MNCTV, GTV)
