@@ -1,4 +1,4 @@
-M3U URL: https://cutt.ly/itsanewdtv
+IPTV URL: https://cutt.ly/itsanewdtv
 <br />
 Any question? https://t.me/itsanewd
 <br />
