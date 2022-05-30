@@ -3,5 +3,5 @@
 - Whats's New:
 - Added MNC groups (RCTI, MNCTV, GTV)
 - Minor fixes
-+NB:
++ NB:
 - Some device doesn't support (.mpd) format, use TiviMate given in main or OTT Navigatot instead of Perfect Player
