@@ -1,7 +1,15 @@
-+ M3U URL: https://raw.githubusercontent.com/itsanewd/iptv/main/Playlist.m3u8 (https://cutt.ly/iptvfii2)
-+ Last Modified: 30 May 2022
-- Whats's New:
+M3U URL: https://cutt.ly/itsanewdtv
+<br />
+Any question? https://t.me/itsanewd
+<br />
+<br />
+Last updated: 30 May 2022
+<br />
+Whats's new:
+<br />
 - Added MNC groups (RCTI, MNCTV, GTV)
 - Minor fixes
-+ NB:
-- Some device doesn't support (.mpd) format, use TiviMate given in main or OTT Navigator instead of Perfect Player
+<br />
+NB:
+<br />
+Some device doesn't support (.mpd) format, use TiviMate given in main or OTT Navigator instead of Perfect Player
