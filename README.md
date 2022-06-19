@@ -7,9 +7,10 @@ Last updated: 30 May 2022
 <br />
 Whats's new:
 <br />
-- Added MNC groups (RCTI, MNCTV, GTV)
+- Added MNC groups (RCTI, MNCTV, GTV) ; use Network Stream to watch it
 - Minor fixes
 <br />
 NB:
 <br />
-Some device doesn't support (.mpd) format, use TiviMate given in main or OTT Navigator instead of Perfect Player
+- Some device doesn't support (.mpd) format, try use TiviMate given in main or OTT Navigator instead of Perfect Player
+- If your device supports using Network Stream (https://play.google.com/store/apps/details?id=com.genuine.leone), it will be much better
