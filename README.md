@@ -13,4 +13,4 @@ Whats's new:
 Whats's new:
 <br />
 - Some device doesn't support (.mpd) format, try use TiviMate given in main or OTT Navigator instead of Perfect Player
-- If your device compatible with Network Stream / NS Player (https://play.google.com/store/apps/details?id=com.genuine.leone), it will be much better
+- If your device compatible with Network Stream / NS Player
