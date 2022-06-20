@@ -13,10 +13,4 @@ Whats's new:
 NB:
 <br />
 - Some device doesn't support (.mpd) format, try use TiviMate given in main or OTT Navigator instead of Perfect Player
-<br />
 - If your device compatible with Network Stream / NS Player (https://play.google.com/store/apps/details?id=com.genuine.leone), it will be much better
-
-Whats's new:
-<br />
-- Added MNC groups (RCTI, MNCTV, GTV) ; use Network Stream to watch it
-- Minor fixes
