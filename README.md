@@ -3,7 +3,7 @@ IPTV URL: https://cutt.ly/itsanewdtv2
 Any question? https://t.me/itsanewd
 <br />
 <br />
-Last updated: 30 May 2022
+Last updated: June 20, 2022
 <br />
 Whats's new:
 <br />
