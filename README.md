@@ -7,11 +7,12 @@ Last updated: June 20, 2022
 <br />
 Whats's new:
 <br />
-- Added MNC groups (RCTI, MNCTV, GTV) ; use Network Stream to watch it
+- New group's added: 'Film' (CINEMAX, HBO, HBO FAMILY, HBO HITS, HBO SIGNATURE, GALAXY PREMIUM, AXN, HITS, HITS MOVIES, WARNER TV, TVN MOVIES, ONE, CELESTIAL MOVIES, CELESTIAL CLASSIC, THRILL, FMN, CINEMA WORLD, INDONESIA MOVIE CHANNELS, ZEE BIOSKOP)
+- Separating  several channel into new group's: 'Religi'
 - Minor fixes
 <br />
 
 NB:
 <br />
 - Some device doesn't support (.mpd) format, try use TiviMate given in main or OTT Navigator instead of Perfect Player
-- If your device compatible with Network Stream / NS Player (https://play.google.com/store/apps/details?id=com.genuine.leone), it will be much better
+- If your device compatible with Network Stream / NS Player (https://play.google.com/store/apps/details?id=com.genuine.leone), it will be much betters
