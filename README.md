@@ -1,4 +1,4 @@
-IPTV URL: https://cutt.ly/itsanewdtv4
+IPTV URL: https://bit.ly/itsanewdtv
 <br />
 Any question? https://t.me/itsanewd
 <br />
