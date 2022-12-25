@@ -9,6 +9,7 @@ Whats's new:
 <br />
 - MNC server dead, remove from playlist
 - Add more server
+- Dens server may slow or geo blocked
 - All server now use m3u8 format except maxstream
 - Other changes here and there
 <br />
