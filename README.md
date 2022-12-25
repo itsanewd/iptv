@@ -7,7 +7,7 @@ Last updated: Dec 25, 2022
 <br />
 Whats's new:
 <br />
-- MNC server dead, remove from playlist
+- MNC server dead or might be temporarily down or it may have moved permanently to a new address, remove from playlist
 - Add more server
 - Dens server may slow or geo blocked
 - All server now use m3u8 format except maxstream
