@@ -1,15 +1,22 @@
-IPTV URL: https://bit.ly/itsanewdtv
-<br />
-Any question? https://t.me/itsanewd
+IPTV Playlist 1: https://bit.ly/itsanewdtv
 <br />
 <br />
-Last updated: Jan 12, 2023
-<br />
+Last updated: Jan 21, 2023
 Whats's new:
 <br />
 - MNC server reborn, replace Dens with MNC server
 - Minor bug fixes and improvements
 - Other changes here and there
 <br />
-
-NB: Some device doesn't support (.mpd) format, try use TiviMate given in main instead of old Perfect Player
+<br />
+IPTV Playlist 2: https://bit.ly/itsanewdtv
+<br />
+<br />
+Last updated: Jan 25, 2023
+Whats's new:
+<br />
+- This playlist only contains m3u8
+- Recomended for Perfect Player users or someone who still using old device
+<br />
+<br />
+Any question? https://t.me/itsanewd
