@@ -7,7 +7,7 @@ Whats's new:
 - Minor bug fixes and improvements
 - Other changes here and there
 <br />
-IPTV Playlist 2: https://bit.ly/itsanewdtv
+IPTV Playlist 2: https://bit.ly/itsanewdtv2
 <br />
 Last updated: Jan 25, 2023
 <br />
