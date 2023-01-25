@@ -6,11 +6,10 @@ Whats's new:
 - MNC server reborn, replace Dens with MNC server
 - Minor bug fixes and improvements
 - Other changes here and there
-<br />
-<br />
 IPTV Playlist 2: https://bit.ly/itsanewdtv
 <br />
 Last updated: Jan 25, 2023
+<br />
 Whats's new:
 <br />
 - This playlist only contains m3u8
