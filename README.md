@@ -1,17 +1,13 @@
 IPTV Playlist 1: https://bit.ly/itsanewdtv
-<br />
-<br />
 Last updated: Jan 21, 2023
-Whats's new:
 <br />
+Whats's new:
 - MNC server reborn, replace Dens with MNC server
 - Minor bug fixes and improvements
 - Other changes here and there
 <br />
 <br />
 IPTV Playlist 2: https://bit.ly/itsanewdtv
-<br />
-<br />
 Last updated: Jan 25, 2023
 Whats's new:
 <br />
