@@ -1,9 +1,11 @@
 IPTV Playlist 1: https://bit.ly/itsanewdtv
 <br />
-Last updated: Jan 21, 2023
+Last updated: Feb 07, 2023
 <br />
 Whats's new:
 - MNC server reborn, replace Dens with MNC one
+- Added beIN Sports with dazn server
+- Separate several channels into new groups: Sports
 - Minor bug fixes and improvements
 - Other changes here and there
 <br />
