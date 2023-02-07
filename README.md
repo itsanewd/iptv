@@ -4,7 +4,7 @@ Last updated: Feb 07, 2023
 <br />
 Whats's new:
 - MNC server reborn, replace Dens with MNC one
-- Added beIN Sports with dazn server
+- Added beIN Sports with Dazn server
 - Separate several channels into new groups: Sports
 - Minor bug fixes and improvements
 - Other changes here and there
