@@ -11,7 +11,7 @@ Whats's new:
 <br />
 IPTV Playlist 2: https://bit.ly/itsanewdtv2
 <br />
-Last updated: Jan 25, 2023
+Last updated: Feb 13, 2023
 <br />
 This playlist only contains m3u8, recommended for Perfect Player users or someone who still using old device
 <br />
